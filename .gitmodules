@@ -10,3 +10,11 @@
 	path = external/meta-qt5
 	url = https://github.com/meta-qt5/meta-qt5
 	branch = zeus
+[submodule "external/meta-intel"]
+	path = external/meta-intel
+	url = git://git.yoctoproject.org/meta-intel
+	branch = zeus
+[submodule "external/meta-boot2qt"]
+	path = external/meta-boot2qt
+	url = https://code.qt.io/yocto/meta-boot2qt.git
+	branch = zeus
