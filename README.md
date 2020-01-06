@@ -49,7 +49,7 @@ $ bitbake -k sh-card-qt-image
 ## Flash the output image to your MicroSD Card
 Connect your USB stick to your PC, and check your card device name using 'lsblk' command
 ```bash
-$ sudo dd if=tmp/deploy/images/genericx86-64/sh-card-minimal-image-genericx86-64-xxxxxxxxx.rootfs.wic of=/dev/sdX bs=4M oflag=sync
+$ sudo dd if=tmp/deploy/images/genericx86-64/sh-card-minimal-image-genericx86-64.wic of=/dev/sdX bs=4M oflag=sync
 ```
 
 ## Depends on
