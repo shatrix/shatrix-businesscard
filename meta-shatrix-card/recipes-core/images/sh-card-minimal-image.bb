@@ -23,6 +23,8 @@ IMAGE_INSTALL += " \
   ${CORE_SHATROX} \
 "
 
+SYSTEMD_DEFAULT_TARGET = "getty.target"
+
 CORE_SHATROX = " \
   ${CORE_IMAGE_EXTRA_INSTALL} \
   packagegroup-core-boot  \
@@ -43,9 +45,14 @@ set_local_timezone_UTC() {
   ln -sf /usr/share/zoneinfo/UTC ${IMAGE_ROOTFS}/etc/localtime
 }
 
+update_rootfs_systemd() {
+  ln -sf /usr/share/zoneinfo/UTC ${IMAGE_ROOTFS}/etc/localtime
+}
+
 ROOTFS_POSTPROCESS_COMMAND += " \
   set_local_timezone_UTC ; \
   write_image_manifest ; \
+  update_rootfs_systemd; \
 "
 
 export IMAGE_BASENAME = "sh-card-minimal-image"

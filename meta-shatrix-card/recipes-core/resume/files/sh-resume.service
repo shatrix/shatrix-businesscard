@@ -1,0 +1,10 @@
+[Unit]
+Description=Shatrix Resume Viewer
+After=getty.target
+
+[Service]
+ExecStart=/bin/shatrix-resume
+StandardOutput=journal+console
+
+[Install]
+WantedBy=getty.target
