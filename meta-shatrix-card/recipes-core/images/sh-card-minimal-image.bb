@@ -36,6 +36,7 @@ CORE_SHATROX = " \
   dbus \
   udev \
   fontconfig \
+  sh-resume \
 "
 
 set_local_timezone_UTC() {

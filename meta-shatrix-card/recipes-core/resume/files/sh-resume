@@ -1,0 +1,104 @@
+Sherif Mousa
+Stuttgart, Germany
+sherif.e.mousa@gmail.com
+github.com/shatrix                                        Birthday: 5 July 1987
+
+Embedded Linux SW Engineer; 6+ years of development, integration and support
+experience; participated in producing customized Linux systems for different
+hardware targets, for IoT, automotive and control systems.
+
+Work Experience
+---------------
+Jan 2017 - Present .. Böblingen, Germany .. Harman Automotive Systems
+PDK/SDK Integrator
+  Integrating all modules from suppliers and company domains using Yocto,
+  to produce target Linux images & SDKs.
+
+Oct 2016 - Dec 2016 .. Hildesheim, Germany .. Robert Bosch Car Multimedia
+Embedded Linux Software Engineer
+  I worked with the team creating the base Bosch Linux platform.
+
+Jul 2014 - Sep 2016 .. Cairo, Egypt .. Valeo
+Embedded Linux Software Engineer
+  I worked in creating an IVI system for automotive, using ARM NXP i.MX6 & TI
+  Jacinto-6 based boards. Support other teams in different areas, bringing new
+  boards up, initiating Yocto for them, creating and using SDKs, and also gave
+  training when asked. Yocto, Linux, U-Boot, Git, Agile, Systemd, Qt, and BSP.
+
+Jul 2013 - Jul 2014 .. Cairo, Egypt .. IBM Egypt
+Application Developer
+  I worked in Android mobile development using Java, C and PhoneGap framework.
+
+Dec 2013 - 2016 .. Cairo, Egypt .. ITI (Information Technology Institute)
+Part-time Embedded Linux instructor
+  I was the official Embedded Linux Trainer at ITI.
+
+Aug 2010 - Jan 2011 .. May 2012 Aug 2012 .. Mansoura, Egypt .. PEP Arab
+Embedded Linux systems developer
+  Created an Embedded Linux system for Diamond Computers.
+
+                             ********************
+Education
+---------
+Oct 2012 - Jun 2013 .. Cairo, Egypt .. ITI (Information Technology Institute)
+Mobile Applications Developer
+  ITI is a 9-Month Diploma provided by the Ministry of Communications and
+  Information Technology (MCIT).
+
+Oct 2004 - Jun 2010 .. Menoufia, Egypt .. Faculty of Electronic Engineering
+B.Sc. degree of Computer Science and Engineering
+  Grade: Good, 2.8GPA
+
+                             ********************
+Projects
+--------
+PDK/SDK continuous integration .. Daimler MBUX @ Harman
+  - Part of the PDK/SDK integration team.
+  - Edit, integrate and build different system modules.
+  - Support other domains to build/integrate their apps.
+  - Introduced app-sandboxing support in Yocto (ACLs,...)
+  - Create & Maintain system Toolchain (SDK, Tooling, ...)
+  - Yocto, Bamboo, Jira, git, svn, stash, confluence, scripting.
+
+Integration between AUTOSAR & Linux .. IVI system for automotive @ Valeo
+  - Based on OpenSynergy COQOS hypervisor.
+  - Custom Linux distro with SDK using Yocto, for NXP i.MX6.
+  - Optimize boot-time for the whole system (U-Boot, Linux kernel, systemd, …).
+  - Secure Boot, to secure the full system (Bootloader, kernel, Modules, rootfs)
+  - Developed Linux desktop apps using Qt Programming.
+
+MANARA GPS Navigator .. Faculty of Electronic Engineering & ITI
+  Version 01 - 2010 (Embedded Linux)
+  - Multi-feature car navigation Linux system with Qt GUI.
+  Version 02 - 2013 (Embedded Android)
+  - Navigation, Security, Location based Ads, mobile control.
+
+                             ********************
+Skills
+------
+  Linux and Embedded Linux
+  - Integrating, configuring, building and porting Embedded Linux systems to
+    different hardware targets.
+  - Yocto, BSPs, layers, images, SDKs.
+  - CAN on Linux.
+  - Git, SVN.
+  - CI/CD Bamboo, Stash, Jira, Confluence.
+  - Scripting (Shell, Python)
+  - systemd.
+  - App-Sandboxing (systemd, ACLs, CAPs, limits).
+  Programming
+  - C/C++
+  - Qt, Widgets and QML.
+  - Android programming using Java and PhoneGap.
+  - Web development, HTML, JavaScript, jQuery, AJAX.
+  Personal Skills
+  - Creative enough.
+  - Cooperative and team worker.
+  - Good communication and presentation skills.
+
+                             ********************
+Languages
+---------
+Arabic: Native language.
+English: fluent (speaking, reading, writing).
+German: Basic (on-going).
