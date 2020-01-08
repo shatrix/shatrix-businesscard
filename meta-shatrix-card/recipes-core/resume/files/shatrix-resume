@@ -1,3 +1,4 @@
 #!/bin/sh
 
+sleep 1
 cat /etc/shatrix/sh-resume-mini
